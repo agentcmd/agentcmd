@@ -5,4 +5,6 @@ Agentcmd (Agent Command) enables you to configure & manage your AI agents like y
 The `agentcmd` CLI allows you to create, publish, update & install agent configurations like you would with code. Configurations support all types of agentic concepts such as MCP, skills, context, steering files, SOPs, tool permissions, etc. 
 Configurations are heirarchical, enabling you to sub-type agents from other agents. In addition to agents, `agentcmd` also allows for individually installing MCP configs, skills, and other AI capabilities. 
 
-Supports [Claude Code](https://code.claude.com/docs/en/sub-agents) and [Kiro](https://kiro.dev/docs/cli/custom-agents/), and anything else through an extension interfacee.
+Supports [Claude Code](https://code.claude.com/docs/en/sub-agents) and [Kiro](https://kiro.dev/docs/cli/custom-agents/), and anything else through an extension interface.
+
+Everything is local and non-priopriatary -- you really don't need some expensive SaaS subscription to do this stuff. Configuration is just code in github or whatever your choice of source control is.
